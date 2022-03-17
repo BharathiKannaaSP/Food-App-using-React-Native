@@ -1,0 +1,16 @@
+.color {
+  color: black;
+  cursor: pointer;
+}
+.clr1 {
+  background-color: blue;
+}
+.clr3 {
+  background-color: green;
+}
+.clr2 {
+  background-color: yellow;
+}
+.clr4 {
+  background-color: red;
+}
